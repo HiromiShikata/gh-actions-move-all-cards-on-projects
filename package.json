@@ -29,7 +29,7 @@
     "@actions/github": "^5.0.0",
     "@octokit/graphql": "^4.8.0",
     "@supercharge/promise-pool": "^1.8.0",
-    "octokit": "^1.6.1"
+    "octokit": "^1.7.0"
   },
   "devDependencies": {
     "@types/jest": "^27.0.2",
